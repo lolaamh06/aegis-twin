@@ -20,6 +20,7 @@ __pycache__/
 # Streamlit
 .streamlit/
 static/
+ll
 
 # IDEs
 .vscode/
